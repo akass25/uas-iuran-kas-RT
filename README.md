@@ -18,8 +18,8 @@
 6. mengisi data iuran kas 
 ![Cuplikan web_10-7-2022_0254_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117264-b4d7ff88-7281-42e0-8389-f2360d171b38.jpeg)
 
-
 7. tampilan jika sudah diisi
+![Cuplikan web_10-7-2022_01611_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117306-95f44a6f-4fc3-4c64-9220-59354f5688e5.jpeg)
 
 8. tampilan laporan pada bulan juli.
 
