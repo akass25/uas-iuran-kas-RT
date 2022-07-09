@@ -28,5 +28,6 @@
 ![Cuplikan web_10-7-2022_0557_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117388-499f891f-d0fd-45fc-a104-f7d5c8195f83.jpeg)
 
 10. menghapus data iuran kas
+![Cuplikan web_10-7-2022_0572_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117444-4b63ceca-4420-4b01-bb8f-cde7c58a51aa.jpeg)
 
 source kode 
