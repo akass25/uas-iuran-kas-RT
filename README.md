@@ -22,6 +22,7 @@
 ![Cuplikan web_10-7-2022_01611_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117306-95f44a6f-4fc3-4c64-9220-59354f5688e5.jpeg)
 
 8. tampilan laporan pada bulan juli.
+![Cuplikan web_10-7-2022_01915_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117347-e01d00d0-2843-47b3-864f-31c780412ede.jpeg)
 
 9. menghapus data warga
 
