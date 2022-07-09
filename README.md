@@ -16,6 +16,8 @@
 ![Cuplikan web_10-7-2022_0025_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117146-26ff4075-742e-47b6-b3f7-76148cba18c3.jpeg)
 
 6. mengisi data iuran kas 
+![Cuplikan web_10-7-2022_0254_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117264-b4d7ff88-7281-42e0-8389-f2360d171b38.jpeg)
+
 
 7. tampilan jika sudah diisi
 
