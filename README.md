@@ -25,6 +25,7 @@
 ![Cuplikan web_10-7-2022_01915_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117347-e01d00d0-2843-47b3-864f-31c780412ede.jpeg)
 
 9. menghapus data warga
+![Cuplikan web_10-7-2022_0557_iuran pakarpadi xyz](https://user-images.githubusercontent.com/102292839/178117388-499f891f-d0fd-45fc-a104-f7d5c8195f83.jpeg)
 
 10. menghapus data iuran kas
 
